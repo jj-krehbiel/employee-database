@@ -30,5 +30,6 @@ This repository includes:
 ![](images/q6.png)
 
             A list of all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+![](images/q7.png)
 
             The frequency count in descending order of employee last names, i.e., how many employees share each last name.
