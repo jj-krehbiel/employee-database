@@ -21,6 +21,7 @@ This repository includes:
   ![](images/q3.png)
 
             A list of the department of each employee with the following information: employee number, last name, first name, and department name.
+![](images/q4.png)
 
             A list with the first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
