@@ -18,6 +18,7 @@ This repository includes:
    ![](images/q2.png)
 
             A list of managers for each department with the following information: department number, department name, the manager's employee number, last name, first name.
+  ![](images/q3.png)
 
             A list of the department of each employee with the following information: employee number, last name, first name, and department name.
 
