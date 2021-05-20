@@ -33,3 +33,4 @@ This repository includes:
 ![](images/q7.png)
 
             The frequency count in descending order of employee last names, i.e., how many employees share each last name.
+ ![](images/q8.png)
