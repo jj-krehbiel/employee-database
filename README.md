@@ -13,7 +13,9 @@ This repository includes:
       
             A list of the following details of each employee: employee number, last name, first name, sex, and salary.
 ![](images/q1.png)
+           
             A list with the first name, last name, and hire date for employees who were hired in 1986.
+   ![](images/q2.png)
 
             A list of managers for each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
