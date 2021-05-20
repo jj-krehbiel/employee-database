@@ -4,6 +4,8 @@ This repository includes:
 
       An ERD diagram showing the relationship between tables for employee data
       
+  ![](images/ERD.png)
+      
       The schema used for creating the tables, primary keys and foreign keys
       
       And the postgreSQL queries to return the following outputs:
