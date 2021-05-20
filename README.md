@@ -24,6 +24,7 @@ This repository includes:
 ![](images/q4.png)
 
             A list with the first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+![](images/q5.png)
 
             A list of all employees in the Sales department, including their employee number, last name, first name, and department name.
 
