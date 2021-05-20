@@ -27,6 +27,7 @@ This repository includes:
 ![](images/q5.png)
 
             A list of all employees in the Sales department, including their employee number, last name, first name, and department name.
+![](images/q6.png)
 
             A list of all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
