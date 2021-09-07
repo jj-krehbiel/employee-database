@@ -1,4 +1,4 @@
-# sql-challenge
+# employee-database
 
 This repository includes:
 
